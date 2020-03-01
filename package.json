@@ -1,0 +1,14 @@
+{
+  "name": "clickerizations",
+  "version": "0.0.1a",
+  "scripts": {
+    "start": "node js/index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "mapbox-gl": "^1.8.1",
+    "rxjs": "~6.4.0",
+    "rxjs-compat": "^6.5.3"
+  },
+  "devDependencies": {}
+}
