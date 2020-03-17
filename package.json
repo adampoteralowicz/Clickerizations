@@ -2,13 +2,22 @@
   "name": "clickerizations",
   "version": "0.0.1a",
   "scripts": {
-    "start": "node js/index.js"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
   },
   "private": true,
   "dependencies": {
-    "mapbox-gl": "^1.8.1",
+    "@vue/cli": "^4.2.3",
+    "@vue/cli-service": "^4.2.3",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "mapbox-gl": "^0.53.0",
+    "popper.js": "^1.16.1",
     "rxjs": "~6.4.0",
-    "rxjs-compat": "^6.5.3"
+    "rxjs-compat": "^6.5.3",
+    "vue": "^2.6.6",
+    "vue-mapbox": "^0.4.1",
+    "vue-template-compiler": "^2.6.11"
   },
   "devDependencies": {}
 }
