@@ -10,7 +10,7 @@
     "@vue/cli": "^4.2.3",
     "@vue/cli-service": "^4.2.3",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mapbox-gl": "^0.53.0",
     "popper.js": "^1.16.1",
     "rxjs": "~6.4.0",
